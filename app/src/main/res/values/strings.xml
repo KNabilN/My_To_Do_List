@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyList</string>
+    <string name="extremly_important">Extremly Important</string>
+    <string name="very_important">Very Important</string>
+    <string name="important">Important</string>
+    <string name="importance">Importance</string>
+</resources>
